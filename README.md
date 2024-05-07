@@ -60,3 +60,5 @@ After the mapping has come to satisfaction, you can generate the map by running:
 rosrun map_server map_saver -f my_map
 
 The output folder of the map is in the catkin workspace folder.
+
+Referred to fazildgr8
