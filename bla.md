@@ -1,7 +1,7 @@
-#SLAM Final Year Project
+# SLAM Final Year Project
 This repository contains the code and setup instructions for my final year project during my degree studies. The project focuses on creating an autonomous robot using SLAM (Simultaneous Localization and Mapping) to explore an environment and build a map using ROS and Gazebo.
 
-##Prerequisites
+## Prerequisites
 Ubuntu 18.04 (Bionic Beaver)
 
 Robot Operating System (ROS) Melodic Morenia
