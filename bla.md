@@ -98,6 +98,8 @@ rosrun map_server map_saver -f my_map
 ```
 The generated map will be saved in the catkin_ws folder.
 
-##Conclusion
+## Conclusion
 This project allows you to set up and operate an autonomous robot using SLAM to map and explore an environment using ROS, Gazebo, and Turtlebot3. Follow the above steps to get the system up and running and generate your map!
+
+This project is based on the work of [fazildgr8](https://github.com/fazildgr8).
 
