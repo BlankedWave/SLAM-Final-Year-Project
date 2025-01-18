@@ -1,7 +1,7 @@
-SLAM Final Year Project
+#SLAM Final Year Project
 This repository contains the code and setup instructions for my final year project during my degree studies. The project focuses on creating an autonomous robot using SLAM (Simultaneous Localization and Mapping) to explore an environment and build a map using ROS and Gazebo.
 
-Prerequisites
+##Prerequisites
 Ubuntu 18.04 (Bionic Beaver)
 
 Robot Operating System (ROS) Melodic Morenia
@@ -96,3 +96,31 @@ The generated map will be saved in the catkin_ws folder.
 
 Conclusion
 This project allows you to set up and operate an autonomous robot using SLAM to map and explore an environment using ROS, Gazebo, and Turtlebot3. Follow the above steps to get the system up and running and generate your map!
+
+
+# SLAM Final Year Project
+
+This repository contains the code and setup instructions for my final year project during my degree studies. The project focuses on creating an autonomous robot using SLAM (Simultaneous Localization and Mapping) to explore an environment and build a map using ROS and Gazebo.
+
+## Prerequisites
+
+- **Ubuntu 18.04 (Bionic Beaver)**
+- **Robot Operating System (ROS) Melodic Morenia**
+
+### Required Packages
+
+- Gazebo
+- Turtlebot3
+- RViz
+- Navigation Stack
+
+## Installation
+
+Follow the steps below to set up the environment and install the necessary packages.
+
+### 1. Install Gazebo
+
+Open a terminal and run the following command to install Gazebo and related ROS packages:
+
+```bash
+sudo apt-get install ros-melodic-gazebo-ros-pkgs ros-melodic-gazebo-ros-control
