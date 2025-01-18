@@ -82,7 +82,7 @@ roslaunch ros_autonomous_slam autonomous_explorer.launch
 ### 3. Start Autonomous Robot Exploration
 In RViz, use the Publish Point Tool to specify target points for the robot to explore. Publish the following points in the highlighted square area:
 
-*Upper left corner
+* Upper left corner
 *Lower left corner
 *Lower right corner
 *Upper right corner
